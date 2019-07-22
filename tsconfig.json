@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "incremental": true,
+    "target": "es2018",
+    "module": "commonjs",
+    // "lib": [],                             /* Specify library files to be included in the compilation. */
+    "jsx": "react",
+    "noEmit": true,
+    "isolatedModules": true,
+    "noImplicitAny": false,
+    "strictNullChecks": false,
+    "alwaysStrict": true,
+    "esModuleInterop": true
+  }
+}
